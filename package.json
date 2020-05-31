@@ -1,0 +1,19 @@
+{
+  "name": "yutube",
+  "version": "1.0.0",
+  "description": "cloning Youtube with Vanilla and NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yubobae/yutube.git"
+  },
+  "author": "Bobae Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yubobae/yutube/issues"
+  },
+  "homepage": "https://github.com/yubobae/yutube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
